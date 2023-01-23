@@ -1,0 +1,4 @@
+@id = 63cee9e33b4adcb70cb47b1e
+DELETE http://localhost:5067/api/books/{{id}}
+Content-Type: application/json
+

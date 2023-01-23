@@ -1,0 +1,9 @@
+POST http://localhost:5067/api/books
+Content-Type: application/json
+
+{
+  "bookName": "Design Patterns",
+  "price": 54.93,
+  "category": "Computers",
+  "author": "Ralph Johnson"
+}
